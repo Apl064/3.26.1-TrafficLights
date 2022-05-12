@@ -11,6 +11,7 @@
 		AB0DEC50282D4ECF0049B313 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB0DEC4F282D4ECF0049B313 /* ContentView.swift */; };
 		AB0DEC52282D4ECF0049B313 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB0DEC51282D4ECF0049B313 /* Assets.xcassets */; };
 		AB0DEC55282D4ECF0049B313 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB0DEC54282D4ECF0049B313 /* Preview Assets.xcassets */; };
+		AB0DEC5C282DB8D50049B313 /* TrafficLampView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB0DEC5B282DB8D50049B313 /* TrafficLampView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		AB0DEC4F282D4ECF0049B313 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AB0DEC51282D4ECF0049B313 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB0DEC54282D4ECF0049B313 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AB0DEC5B282DB8D50049B313 /* TrafficLampView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrafficLampView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				AB0DEC4D282D4ECF0049B313 /* TrafficLightsApp.swift */,
 				AB0DEC4F282D4ECF0049B313 /* ContentView.swift */,
+				AB0DEC5B282DB8D50049B313 /* TrafficLampView.swift */,
 				AB0DEC51282D4ECF0049B313 /* Assets.xcassets */,
 				AB0DEC53282D4ECF0049B313 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB0DEC5C282DB8D50049B313 /* TrafficLampView.swift in Sources */,
 				AB0DEC50282D4ECF0049B313 /* ContentView.swift in Sources */,
 				AB0DEC4E282D4ECF0049B313 /* TrafficLightsApp.swift in Sources */,
 			);
