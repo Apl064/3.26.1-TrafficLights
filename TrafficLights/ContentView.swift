@@ -41,11 +41,11 @@ struct ContentView: View {
                 .padding()
                 .foregroundColor(.white)
                 .background(
-                    RoundedRectangle(cornerRadius: 10)
+                    RoundedRectangle(cornerRadius: 7)
                     .stroke(Color.white, lineWidth: 4)
                     .frame(width: 100, height: 50, alignment: .leading)
                     .background(Color.blue
-                    .cornerRadius(10)))
+                    .cornerRadius(7)))
         }
         
     }
